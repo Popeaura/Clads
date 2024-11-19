@@ -143,5 +143,7 @@ header{
 }
 
 .products .products-heading{
-    
+    font-family: var(--primary-font);
+    font-size: 2rem;
+    margin-bottom: 3rem;
 }
