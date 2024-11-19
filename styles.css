@@ -147,6 +147,7 @@ header{
     font-size: 2rem;
     margin-bottom: 3rem;
 }
-.products .products-categories button{
-    
+.products .product-categories button{
+    margin-right: 20px;
+    margin-bottom: 2rem;
 }
