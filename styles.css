@@ -135,4 +135,5 @@ header{
 /*product start */
 .products{
     margin-bottom: 10rem;
+    display:flex;
 }
