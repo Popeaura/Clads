@@ -136,4 +136,6 @@ header{
 .products{
     margin-bottom: 10rem;
     display:flex;
+    flex-wrap: wrap;
+    
 }
