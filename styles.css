@@ -152,4 +152,8 @@ header{
     margin-bottom: 2rem;
 }
 
-.products .products-items-container{}
+.products .products-items-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
