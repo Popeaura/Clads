@@ -212,5 +212,13 @@ header{
     text-align: center;
 
   }
+  .customer-heading{
+    font-family: var(--primary-font);
+    font-size: 2rem;
+    margin-bottom:20px ;
+    text-align: center;
+    margin-top: 10rem;
+
+  }
 
     /* Customers review section  end*/
