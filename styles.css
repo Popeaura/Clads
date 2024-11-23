@@ -204,7 +204,8 @@ header{
     margin-top: 7rem;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
   }
 
     /* Customers review section  end*/
