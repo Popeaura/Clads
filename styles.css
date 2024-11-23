@@ -200,3 +200,11 @@ header{
   /*product section end */
   
   /* Customers review section  start*/
+  .customer-reviews{
+    margin-top: 7rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+    /* Customers review section  end*/
