@@ -230,6 +230,8 @@ header{
     font-family: var(--primary-font);
   }
 
-  .customer .customer-img .img{}
+  .customer .customer-img .img{
+    width: 20px;
+  }
 
     /* Customers review section  end*/
