@@ -231,7 +231,9 @@ header{
   }
 
   .customer .customer-img .img{
-    width: 20px;
+    width: 200px;
+    height: 200px;
+    
   }
 
     /* Customers review section  end*/
