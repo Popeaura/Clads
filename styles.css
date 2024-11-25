@@ -240,6 +240,8 @@ header{
     margin-bottom:20px;
   }
 
-  .customer .img-one{}
+  .customer .img-one{
+    background:url(Images/yogendra-singh-uWs_N5Dlyiw-unsplash.jpg) ;
+  }
 
     /* Customers review section  end*/
