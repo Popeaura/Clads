@@ -228,7 +228,8 @@ header{
     text-align: center;
     margin: 10px;
     font-family: var(--primary-font);
-
   }
+
+  .customer .customer-img .img{}
 
     /* Customers review section  end*/
