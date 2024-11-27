@@ -279,3 +279,10 @@ header{
     /* footer end */
 
     /*media queries */
+    @media screen and (max-width: 900px) {
+      header{
+        height: 120vh;
+        text-align: center;
+      }
+
+    }
