@@ -267,5 +267,13 @@ header{
       font-family: var(--primary-font);
     }
 
-    
+    footer .container .footer-heading{
+      margin-bottom: 3rem;
+    }
+
+    footer .container .footer-primary-heading{
+      font-weight: normal;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
     /* footer end */
